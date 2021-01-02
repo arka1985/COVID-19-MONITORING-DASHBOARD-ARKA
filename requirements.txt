@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+gspread
+datetime
+voila
+ipywidgets
+matplotlib
